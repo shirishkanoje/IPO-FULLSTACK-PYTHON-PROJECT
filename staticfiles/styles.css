@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .sidebar {
+    height: 100vh;
+    position: fixed;
+  }
+  
+  .nav-link {
+    padding: 10px;
+    color: #000;
+    text-decoration: none;
+  }
+  
+  .nav-link:hover {
+    background-color: #f0f0f0;
+    color: #007bff;
+  }
+  
+  .card {
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
